@@ -1,4 +1,2 @@
-# issue-template-test
-
-
-See our [issues](./issues)
+Please select your [Bike
+Color](https://bikeshed.org/).
