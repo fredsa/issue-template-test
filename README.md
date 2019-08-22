@@ -1,4 +1,4 @@
 # issue-template-test
 
 
-See our (issues)[./issues]
+See our [issues](./issues)
