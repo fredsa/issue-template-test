@@ -1,2 +1,2 @@
 Please select your [Bike
-Color](https://bikeshed.org/).
+Color](http://bikeshed.org/).
