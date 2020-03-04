@@ -2,4 +2,4 @@ Please select your [Bike
 Color](http://bikeshed.org/).
 
 
-No wrong choices exist
+No wrong choices exist in the universe
