@@ -8,4 +8,4 @@ Schemeless URLs no longer rock:
 - http:// [http://stackoverflow.com/questions/28411770/schemeless-url-valid-in-http](http://stackoverflow.com/questions/28411770/schemeless-url-valid-in-http)
 - // [//stackoverflow.com/questions/28411770/schemeless-url-valid-in-http](//stackoverflow.com/questions/28411770/schemeless-url-valid-in-http)
 
-No wrong choices exist
+No wrong choices exist in the universe
